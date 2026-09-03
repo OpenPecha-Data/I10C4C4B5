@@ -1,0 +1,23 @@
+id: I10C4C4B5
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-GR-06
+  title: ༄༅། །རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་གྱི་རྣམ་པར་བཤད་པ་ཀུན་ཏུ་བཟང་པོའི་འོད་ཟེར་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  authors: &id001
+  - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  sku: IBA-GR-06
+  cover: IBA-GR-06.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་གྱི་རྣམ་པར་བཤད་པ་ཀུན་ཏུ་བཟང་པོའི་འོད་ཟེར་བཞུགས་སོ།།
+  authors: *id001
+  sku: IBA-GR-06
+  cover: IBA-GR-06.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
