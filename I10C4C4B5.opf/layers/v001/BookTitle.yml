@@ -1,10 +1,10 @@
-id: 76c78ba4934e413e800cc6da3070251d
+id: 8fcba61d11c6484e9ad1b01f9acb4149
 annotation_type: BookTitle
 revision: '00001'
 annotations:
-  3ad59fcfa1c9455b98bdd23066f471a8:
+  46d027e41eb34f27b5d7c4f2226c296d:
     span:
       start: 0
       end: 89
 local_ids:
-  3ad59fcfa1c9455b98bdd23066f471a8: 200000
+  46d027e41eb34f27b5d7c4f2226c296d: 200000
